@@ -1,0 +1,80 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+    line-height: 3;
+}
+
+.heading h3
+{
+    display: inline;
+    font-size: 28px !important;
+}
+
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+    font-size: 25px;
+}
+
+#status 
+{
+    color: black;
+    background-color: white;
+    width: 150px;
+    font-size: 20px;
+    padding: 20px;
+
+}
+
+.footer
+{
+    bottom: 0;
+    background-color: azure;
+    font-size: 25px;
+    line-height: 2;
+    color: black;
+    margin: 0px;
+    position: fixed;
+    width: 100%;
+    font-style: italic;
+    text-shadow: 3px 1px 2px grey;
+    margin-top: 30px;
+
+}
+
+ol
+{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+#cross
+{
+    margin: 10px;
+    font-size: 30px;
+}
+
+h4
+{
+    font-size: 40px;
+    background-color: antiquewhite;
+    font-weight: bold
+}
+
+.button
+{
+    margin-bottom: 40px;
+}
+
+canvas 
+{
+    border: 2px solid white;
+}
+
